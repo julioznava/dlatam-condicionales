@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #E60000;
+}
+
+.cambiarColor{
+    border: 2px solid #FFC800;
+}
+.number{
+    width: 10em;
+}
+
+
+
+.centrar{
+   margin: 0 auto;
+}
+
+
+
+img {
+    box-sizing: 200px;
+}
+
+h1  {
+    color: #FFC800;
+    font-size: 60px;
+}
+
+h4 {
+    color: white;
+    font-size: 30px;
+}
+
+
+p {
+    font-size: 20px;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.flex-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.card {
+    background-color: #E60000;
+    border: none;
+}
+
+.btn:hover {
+    color: white;
+}
