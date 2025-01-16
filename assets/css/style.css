@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: #E60000;
+    background-color: white;
 }
 
 .cambiarColor{
@@ -25,12 +25,12 @@ img {
 }
 
 h1  {
-    color: #FFC800;
+    color: black;
     font-size: 60px;
 }
 
 h4 {
-    color: white;
+    color: black;
     font-size: 30px;
 }
 
